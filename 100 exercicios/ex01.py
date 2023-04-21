@@ -1,4 +1,4 @@
-print('Para calcular a base e a altura do retangulo')
+print('Para calcular a área e o perímetro do retangulo')
 
 base = float(input('Digite a base: '))
 altura = float(input('Digite a altura: '))

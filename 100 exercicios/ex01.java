@@ -5,7 +5,7 @@ public class ex01 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
-		System.out.println("Para calcular a base e a altura do retangulo");
+		System.out.println("Para calcular a area e o perimetro do retangulo");
 		
 		System.out.println("Digite a base:");
 		float base = input.nextFloat();
