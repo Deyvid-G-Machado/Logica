@@ -13,7 +13,7 @@ public class ex01 {
 		System.out.println("Digite a altura:");
 		float altura = input.nextFloat();
 		
-		System.out.println("Area: " + base * altura);
+		System.out.println("\nArea: " + base * altura);
 		System.out.println("Perimetro: " + 2*(base + altura));
 
 	}
